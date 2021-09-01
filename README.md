@@ -1,6 +1,6 @@
 <strong>Quicksell Task:</strong><br>
-Counter Component<br>
-The files are submitted as an entry for task given by Quicksell.
+Counter<br><br>
+The files are submitted as an entry for the task given by Quicksell under 'FrontEnd Mini Task'.
 
 ![](screenshots/Counter-Image.png)
 ![](Counter-Component.webm)
