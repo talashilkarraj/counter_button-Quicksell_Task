@@ -6,7 +6,6 @@ The files are submitted as an entry for task given by Quicksell.
 ![](Counter-Component.webm)
 
 Demo Video:<br>
-https://drive.google.com/file/d/1rYnhdBlqYHsA3AdPrsQCQHPlM7l7YqAc/view
-
+https://drive.google.com/file/d/1rYnhdBlqYHsA3AdPrsQCQHPlM7l7YqAc/view?usp=sharing
 App is hosted here:<br>
 https://talashilkarraj.github.io/counter_button-Quicksell_Task/
