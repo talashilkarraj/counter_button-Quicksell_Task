@@ -2,7 +2,7 @@
   "name": "counter_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://talashilkarraj.github.io/counter",
+  "homepage": "https://talashilkarraj.github.io/counter_button-Quicksell_Task",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
