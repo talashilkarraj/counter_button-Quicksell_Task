@@ -3,4 +3,4 @@ Counter Component<br>
 The files are submitted as an entry for task given by Quicksell.
 
 ![](screenshots/Counter-Image.png)
-![](Counter-Component.webm)
+![](Counter-Component.web)
