@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counter/static/css/main.af9c5e04.chunk.css",
+    "main.js": "/counter/static/js/main.58b409da.chunk.js",
+    "main.js.map": "/counter/static/js/main.58b409da.chunk.js.map",
+    "runtime-main.js": "/counter/static/js/runtime-main.69348f19.js",
+    "runtime-main.js.map": "/counter/static/js/runtime-main.69348f19.js.map",
+    "static/js/2.f64eff58.chunk.js": "/counter/static/js/2.f64eff58.chunk.js",
+    "static/js/2.f64eff58.chunk.js.map": "/counter/static/js/2.f64eff58.chunk.js.map",
+    "static/js/3.05cc2d6a.chunk.js": "/counter/static/js/3.05cc2d6a.chunk.js",
+    "static/js/3.05cc2d6a.chunk.js.map": "/counter/static/js/3.05cc2d6a.chunk.js.map",
+    "index.html": "/counter/index.html",
+    "static/css/main.af9c5e04.chunk.css.map": "/counter/static/css/main.af9c5e04.chunk.css.map",
+    "static/js/2.f64eff58.chunk.js.LICENSE.txt": "/counter/static/js/2.f64eff58.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/counter/static/media/Metropolis-Black.1510951e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69348f19.js",
+    "static/js/2.f64eff58.chunk.js",
+    "static/css/main.af9c5e04.chunk.css",
+    "static/js/main.58b409da.chunk.js"
+  ]
+}
