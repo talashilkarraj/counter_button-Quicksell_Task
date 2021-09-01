@@ -36,8 +36,6 @@ code {
 }
 
 .button1{
-  margin: 0px;
-  padding: 0px;
   background-color: #ffffff; 
   border:transparent;
   width: 60px;height: 56px;
@@ -52,8 +50,6 @@ code {
 }
 
 .button2{
-  margin: 0px; 
-  padding: 0px;
   background-color:#B24242;
   border-radius: 0px 6px 6px 0px;
   border:transparent;
