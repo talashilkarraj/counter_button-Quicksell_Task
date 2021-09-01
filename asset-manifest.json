@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/counter_button-Quicksell_Task/static/css/main.f9824c70.chunk.css",
-    "main.js": "/counter_button-Quicksell_Task/static/js/main.58b409da.chunk.js",
-    "main.js.map": "/counter_button-Quicksell_Task/static/js/main.58b409da.chunk.js.map",
+    "main.css": "/counter_button-Quicksell_Task/static/css/main.a992de46.chunk.css",
+    "main.js": "/counter_button-Quicksell_Task/static/js/main.1d8527cb.chunk.js",
+    "main.js.map": "/counter_button-Quicksell_Task/static/js/main.1d8527cb.chunk.js.map",
     "runtime-main.js": "/counter_button-Quicksell_Task/static/js/runtime-main.889a2802.js",
     "runtime-main.js.map": "/counter_button-Quicksell_Task/static/js/runtime-main.889a2802.js.map",
     "static/js/2.f64eff58.chunk.js": "/counter_button-Quicksell_Task/static/js/2.f64eff58.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.05cc2d6a.chunk.js": "/counter_button-Quicksell_Task/static/js/3.05cc2d6a.chunk.js",
     "static/js/3.05cc2d6a.chunk.js.map": "/counter_button-Quicksell_Task/static/js/3.05cc2d6a.chunk.js.map",
     "index.html": "/counter_button-Quicksell_Task/index.html",
-    "static/css/main.f9824c70.chunk.css.map": "/counter_button-Quicksell_Task/static/css/main.f9824c70.chunk.css.map",
+    "static/css/main.a992de46.chunk.css.map": "/counter_button-Quicksell_Task/static/css/main.a992de46.chunk.css.map",
     "static/js/2.f64eff58.chunk.js.LICENSE.txt": "/counter_button-Quicksell_Task/static/js/2.f64eff58.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/counter_button-Quicksell_Task/static/media/Metropolis-Black.1510951e.otf"
+    "static/media/index.css": "/counter_button-Quicksell_Task/static/media/AvenirLTStd-Black.7ce894e1.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.889a2802.js",
     "static/js/2.f64eff58.chunk.js",
-    "static/css/main.f9824c70.chunk.css",
-    "static/js/main.58b409da.chunk.js"
+    "static/css/main.a992de46.chunk.css",
+    "static/js/main.1d8527cb.chunk.js"
   ]
 }
